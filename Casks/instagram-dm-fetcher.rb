@@ -1,6 +1,6 @@
 cask "instagram-dm-fetcher" do
   version "1.0.1"
-  sha256 "PLAK_HIER_DE_SHA256_HASH"
+  sha256 "87b74b3d364677c1dfe551208ad730d6366e32ebcd7997f4b110946e35cd6acc"
 
   url "https://github.com/yyyutakaaa/InstaDM-Saver/releases/download/v#{version}/Instagram-DM-Fetcher-v#{version}.dmg"
   name "Instagram DM Fetcher"
